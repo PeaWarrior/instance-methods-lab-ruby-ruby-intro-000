@@ -7,6 +7,5 @@ class Dog
   def sit
     p "The Dog is sitting"
   end
-  
-end
 
+end
